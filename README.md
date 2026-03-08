@@ -2,9 +2,10 @@
 <p>Underneath is a 2D puzzle platformer game that uses pixel art made in unity game engine by using C# programming language. It includes 13 levels and many more fun features like puzzle mechanic and gravity that suites the theme.</p>
 <hr>
 <h3>Controls:</h3>
-<p>1. W/A/S/D: The classic game controls for almost all modern games 'W/A/S/D' is also used in underneath. W to jump, S to go to beneath the surace, A to go behind and finally D to go forward.</p>
-<p>2. Space: Space is also a common control widely used for jumpm. Similarly, Space bar is used to jump up in underneath.</p>
-<p>3. Arrow Keys: Arrow Keys are also another widely used controls used for controlling the game same as WASD.</p>
+<p>1. W - To jump</p>
+<p>1. A - To move forward/backward</p>
+<p>1. S - To go beneath the surface</p>
+<p>1. D - To move backward/forward</p>
 <hr>
 <h3>How to play?</h3>
 <p>There are 2 simple ways to play Underneath. They are as follows:</p>
