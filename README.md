@@ -3,9 +3,9 @@
 <hr>
 <h3>Controls:</h3>
 <p>1. W - To jump</p>
-<p>1. A - To move forward/backward</p>
-<p>1. S - To go beneath the surface</p>
-<p>1. D - To move backward/forward</p>
+<p>2. A - To move forward/backward</p>
+<p>3. S - To go beneath the surface</p>
+<p>4. D - To move backward/forward</p>
 <hr>
 <h3>How to play?</h3>
 <p>There are 2 simple ways to play Underneath. They are as follows:</p>
