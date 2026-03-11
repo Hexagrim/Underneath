@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./Logos/prynix.svg" alt="Prynix" width="80">
 
 # Underneath
 
